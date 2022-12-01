@@ -1,0 +1,12 @@
+.colorStyle{
+    color:blueviolet;
+    background-color: aliceblue;
+}
+.myHeader{
+        background-color: rgb(255, 255, 255);
+}
+.myFooter{
+    background-color: lightgrey;
+    height: 300px;
+    color: black;
+}
