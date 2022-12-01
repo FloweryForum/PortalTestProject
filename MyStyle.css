@@ -10,3 +10,7 @@
     height: 300px;
     color: black;
 }
+.imageGallery{
+    border: 10px double blue;
+    background-color: aliceblue;
+}
